@@ -9,41 +9,42 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Africa/Lagos
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bangis' Bloggg not a Vloggg # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Hecker Wannabe | CTF Player # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Just my blogs, things that I am up to, things I have done, things I think of doing also. Basically documentation and whatever is supposed to be here
+  Opened to corrections and hopefully you learn one or two.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "bangiskhan.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: bangiskhan # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: bangisDkhan # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Abdulsamad Babangida
+  email: bangis2627@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/bangisDkhan # change to your Twitter homepage
+    - https://github.com/bangiskhan # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    #- https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -99,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/my_avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
